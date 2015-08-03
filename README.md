@@ -1,0 +1,1 @@
+#wincn-static
