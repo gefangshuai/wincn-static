@@ -1,1 +1,2 @@
-#wincn-static
+# wincn-static
+static resources
